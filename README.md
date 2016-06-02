@@ -1,2 +1,0 @@
-# LoginRegistrationService
-Login Registration Service
